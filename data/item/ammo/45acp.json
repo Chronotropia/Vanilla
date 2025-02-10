@@ -1,0 +1,11 @@
+{
+	"name":".45 ACP",
+	"value":1.5,
+	"velocity":1000.0,
+	"lbs":0.0328,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/45ACP.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

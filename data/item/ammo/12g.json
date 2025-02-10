@@ -1,0 +1,11 @@
+{
+	"name":"12g",
+	"value":2.0,
+	"velocity":1500.0,
+	"lbs":0.0625,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/12g.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

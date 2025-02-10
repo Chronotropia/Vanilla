@@ -1,0 +1,11 @@
+{
+	"name":".223",
+	"value":2.0,
+	"velocity":3000.0,
+	"lbs":0.029,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/223.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

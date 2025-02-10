@@ -1,0 +1,25 @@
+{
+	"name":"H&K CAWS",
+	"range":512.0,
+	"cooldown":0.24,
+	"reload_time":1.0,
+	"value":500.0,
+	"barrel_length":18.0,
+	"lbs":8.2,
+	"icon_width":4,
+	"icon_height":2,
+	"magazine":10,
+	"anim_id":0,
+	"anim":"rifle",
+	"ammo":"12g",
+	"icon":"image/icon/weapon/hk_caws.png",
+	"drop_sound":"sound/effect/drop/gun_0.wav",
+	"sound":"sound/effect/weapon/rifle.wav",
+	"sound_no_ammo" : "sound/effect/gun/empty_0.wav",
+	"sound_reload" : [
+		"sound/effect/gun/unload_0.wav",
+		"sound/effect/gun/load_magazine_0.wav",
+		"sound/effect/gun/rail.wav"
+		],
+	"type":"gun"
+}

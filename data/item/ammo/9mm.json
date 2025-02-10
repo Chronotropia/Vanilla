@@ -1,0 +1,11 @@
+{
+	"name":"9mm",
+	"value":1.0,
+	"velocity":1250.0,
+	"lbs":0.0177,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/9mm.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}
