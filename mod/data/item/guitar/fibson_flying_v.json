@@ -1,0 +1,10 @@
+{
+	"name":"Fibson Flying V",
+	"value":750.0,
+	"lbs":5.0,
+	"icon_width":2,
+	"icon_height":4,
+	"icon":"image/icon/guitar/guitar_fibson_flying_v.png",
+	"drop_sound":"sound/effect/drop/wood_1.wav",
+	"type":"guitar",
+}

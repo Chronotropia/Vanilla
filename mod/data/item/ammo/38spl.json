@@ -1,0 +1,11 @@
+{
+	"name":".38 SPL",
+	"value":0.5,
+	"velocity":850.0,
+	"lbs":0.0188,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/38SPL.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

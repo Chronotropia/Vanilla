@@ -1,0 +1,11 @@
+{
+	"name":".22 LR",
+	"value":0.75,
+	"velocity":1000.0,
+	"lbs":0.0057,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/22LR.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

@@ -1,0 +1,11 @@
+{
+	"name":"dart",
+	"value":50.0,
+	"velocity":150.0,
+	"lbs":0.02,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/dart.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}
