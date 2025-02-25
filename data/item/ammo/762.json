@@ -1,0 +1,12 @@
+{
+	"name":"7.62",
+	"value":1.5,
+	"velocity":2250.0,
+	"lbs":0.0193,
+	"projectile_count":1,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/762.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

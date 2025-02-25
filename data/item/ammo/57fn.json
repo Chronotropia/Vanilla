@@ -1,0 +1,12 @@
+{
+	"name":"5.7 FN",
+	"value":1.25,
+	"velocity":1750.0,
+	"lbs":0.00714,
+	"projectile_count":1,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/57FN.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

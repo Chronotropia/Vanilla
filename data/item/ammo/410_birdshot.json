@@ -1,0 +1,12 @@
+{
+	"name": ".410 Birdshot",
+	"value": 0.5,
+	"velocity": 1750,
+	"lbs": 0.03125,
+	"projectile_count": 8,
+	"icon_width": 1,
+	"icon_height": 1,
+	"icon": "image/icon/ammo/410_birdshot.png",
+	"drop_sound": "sound/effect/drop/metal_0.wav",
+	"type": "ammo"
+}

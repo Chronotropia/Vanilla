@@ -1,0 +1,13 @@
+{
+	"name":"Can of Starkest Tuna",
+	"value":2.0,
+	"thirst":0.0,
+	"hunger":0.0,
+	"substances":[],
+	"lbs":1.0,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/food/can_starkest_tuna.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"food",
+}

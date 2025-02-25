@@ -1,0 +1,10 @@
+{
+	"name":"P.P. Itch Warlock",
+	"value":750.0,
+	"lbs":5.0,
+	"icon_width":2,
+	"icon_height":4,
+	"icon":"image/icon/guitar/guitar_pp_itch_warlock.png",
+	"drop_sound":"sound/effect/drop/wood_1.wav",
+	"type":"guitar",
+}

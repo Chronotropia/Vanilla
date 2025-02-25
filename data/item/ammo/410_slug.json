@@ -1,0 +1,12 @@
+{
+	"name":".410 Slug",
+	"value":0.5,
+	"velocity":1750.0,
+	"lbs":0.03125,
+	"projectile_count":1,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/410_slug.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}

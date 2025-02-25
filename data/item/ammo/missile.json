@@ -1,0 +1,12 @@
+{
+	"name":"missile",
+	"value":150.0,
+	"velocity":275.0,
+	"lbs":1.0,
+	"projectile_count":1,
+	"icon_width":1,
+	"icon_height":1,
+	"icon":"image/icon/ammo/missile.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"type":"ammo",
+}
