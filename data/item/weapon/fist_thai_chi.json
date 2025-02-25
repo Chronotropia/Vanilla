@@ -1,0 +1,16 @@
+{
+	"name":"Thai Chi Fist",
+	"range":16.0,
+	"cooldown":0.5,
+	"damage":5.0,
+	"value":0.0,
+	"lbs":0.0,
+	"icon_width":1,
+	"icon_height":1,
+	"anim_id":3,
+	"anim":"melee_swing",
+	"icon":"image/icon/weapon/fist.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"sound":"sound/effect/weapon/swing.wav",
+	"type":"melee",
+}

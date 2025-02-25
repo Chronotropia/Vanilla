@@ -1,0 +1,17 @@
+{
+	"name":"Anti-Tank Mine",
+	"range":128.0,
+	"cooldown":1.0,
+	"blast_damage":50.0,
+	"blast_radius":64,
+	"value":0.0,
+	"lbs":1.0,
+	"icon_width":2,
+	"icon_height":1,
+	"anim_id":0,
+	"anim":"melee_swing",
+	"icon":"image/icon/weapon/mine_antitank.png",
+	"drop_sound":"sound/effect/drop/metal_0.wav",
+	"sound":"sound/effect/weapon/swing.wav",
+	"type":"explosive",
+}
