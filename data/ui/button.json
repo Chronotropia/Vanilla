@@ -1,0 +1,19 @@
+{
+	"name":"Button",
+	"font":
+	{
+		"font":"game_font_8"
+	},
+	"constant":
+	{
+		"hseparation":0
+	},
+	"stylebox":
+	{
+		"disabled":"disabled",
+		"focus":"focus",
+		"hover":"hover",
+		"normal":"normal",
+		"pressed":"pressed"
+	}
+}

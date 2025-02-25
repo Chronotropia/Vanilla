@@ -1,0 +1,17 @@
+{
+	"name":"LineEdit",
+	"font" :
+	{
+		"font":"game_font_8"
+	},
+	"constant":
+	{
+		"minimum_spaces":0
+	},
+	"stylebox":
+	{
+		"focus":"focus",
+		"normal":"normal",
+		"read_only":"disabled"
+	}
+}

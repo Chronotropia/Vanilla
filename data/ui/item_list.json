@@ -1,0 +1,23 @@
+{
+	"name":"ItemList",
+	"font":
+	{
+		"font":"game_font_8"
+	},
+	"constant":
+	{
+		"hseparation":2,
+		"vseparation":2,
+		"line_separation":2,
+		"icon_margin":2
+	},
+	"stylebox":
+	{
+		"bg":"disabled",
+		"bg_focus":"normal",
+		"cursor":"focus",
+		"cursor_unfocused":"hover",
+		"selected":"pressed",
+		"selected_focus":"pressed"
+	}
+}

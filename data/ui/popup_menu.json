@@ -1,0 +1,30 @@
+{
+	"name":"PopupMenu",
+	"font" :
+	{
+		"font":"game_font_8",
+		"font_separator":"game_font_8"
+	},
+	"constant":
+	{
+		"hseparation":2,
+		"vseparation":2
+	},
+	"icon":
+	{
+		"checked":"image/ui/icon/box_checked.png",
+		"unchecked":"image/ui/icon/box_unchecked.png",
+		"radio_checked":"image/ui/icon/radio_checked.png",
+		"radio_unchecked":"image/ui/icon/radio_unchecked.png",
+		"submenu":"image/ui/icon/submenu.png"
+	},
+	"stylebox":
+	{
+		"hover":"hover",
+		"labeled_separator_left":"pressed",
+		"labeled_separator_right":"pressed",
+		"panel":"normal",
+		"panel_disabled":"disabled",
+		"separator":"pressed"
+	}
+}

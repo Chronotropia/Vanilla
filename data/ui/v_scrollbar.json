@@ -1,0 +1,20 @@
+{
+	"name":"VScrollBar",
+	"icon":
+	{
+		"decrement":"image/ui/icon/decrement.png",
+		"decrement_highlight":"image/ui/icon/decrement_highlight.png",
+		"decrement_pressed":"image/ui/icon/decrement_pressed.png",
+		"increment":"image/ui/icon/increment.png",
+		"increment_highlight":"image/ui/icon/increment_highlight.png",
+		"increment_pressed":"image/ui/icon/increment_pressed.png"
+	},
+	"stylebox":
+	{
+		"grabber":"hover",
+		"grabber_highlight":"focus",
+		"grabber_pressed":"pressed",
+		"scroll":"disabled",
+		"scroll_focus":"normal"
+	}
+}

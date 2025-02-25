@@ -1,0 +1,12 @@
+{
+	"name":"TooltipLabel",
+	"font" :
+	{
+		"font":"game_font_8"
+	},
+	"constant":
+	{
+		"shadow_offset_x":0,
+		"Shadow_offset_y":0
+	}
+}

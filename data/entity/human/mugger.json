@@ -1,0 +1,36 @@
+{
+	"name":"Mugger",
+	"image":"image/entity/human.png",
+	"equip":{
+		"melee" : ["Aluminum Baseball Bat", "Baseball Bat", "Crowbar"],
+		"gun" : ["Beretta M9", "Colt M1911", "Glock 19"]
+	},
+	"behavior":
+	{
+		"temperament" : 0.5,
+		"calm_rate":0.01,
+		"max_excitement":0.35,
+		"min_excitement":0.0625,
+		"max_travel_distance":512.0,
+	},
+	"stats_base":
+	{
+		"lucky" : 10,
+		"power" : 11,
+		"sense" : 10,
+		"smart" : 9,
+		"speed" : 10,
+		"suave" : 9,
+		"tough" : 11
+	},
+	"stats_chance":
+	{
+		"lucky" : 0,
+		"power" : 80,
+		"sense" : 70,
+		"smart" : 30,
+		"speed" : 60,
+		"suave" : 20,
+		"tough" : 90
+	}
+}

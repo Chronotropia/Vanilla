@@ -1,0 +1,12 @@
+{
+	"name":"ProgressBar",
+	"font" :
+	{
+		"font":"game_font_8"
+	},
+	"stylebox":
+	{
+		"bg":"disabled",
+		"fg":"pressed"
+	}
+}

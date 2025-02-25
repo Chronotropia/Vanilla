@@ -1,0 +1,32 @@
+{
+	"name":"CheckBox",
+	"font":
+	{
+		"font":"game_font_8"
+	},
+	"constant":
+	{
+		"check_vadjust":0,
+		"hseparation":0
+	},
+	"icon":
+	{
+		"checked":"image/ui/icon/box_checked.png",
+		"checked_disabled":"image/ui/icon/box_checked_disabled.png",
+		"unchecked":"image/ui/icon/box_unchecked.png",
+		"unchecked_disabled":"image/ui/icon/box_unchecked_disabled.png",
+		"radio_checked":"image/ui/icon/radio_checked.png",
+		"radio_checked_disabled":"image/ui/icon/radio_checked_disabled.png",
+		"radio_unchecked":"image/ui/icon/radio_unchecked.png",
+		"radio_unchecked_disabled":"image/ui/icon/radio_unchecked_disabled.png"
+	},
+	"stylebox":
+	{
+		"disabled":"empty",
+		"focus":"empty",
+		"hover":"empty",
+		"hover_pressed":"empty",
+		"normal":"empty",
+		"pressed":"empty"
+	}
+}
